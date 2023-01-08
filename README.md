@@ -10,11 +10,11 @@ A multi-purpose discord bot.
 ```Java
 Prefix: !
 
-Base:
+Base: !UNDER CONSTRUCTION!
     help
     info <@user | creator>
 
-Music:
+Music: !UNDER CONSTRUCTION!
     djset <voice-channel>                   // Sets the channel it will play music in
     djplay <song title | youtube url>       // Add a song to the song queue
     djqueue                                 // Displays the songs in the song queue
