@@ -33,7 +33,6 @@ Anime: !UNDER CONSTRUCTION!
 
 ## What I used / learned
 * Using Discord.py
-* 
 
 ## Resources
 * [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
