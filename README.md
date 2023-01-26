@@ -10,25 +10,15 @@ This discord bot is or will be used for multiple functions such as server manage
 ```Java
 Prefix: !
 
-Base: !UNDER CONSTRUCTION!
-    help
-    info <@user | creator>
+Features to add:
+    - Music Player
+    - Anime Notifier
+    - Server Moderation
+    - Reaction Roles
+    - 
 
-Music: !UNDER CONSTRUCTION!
-    djset <voice-channel> // Sets the channel it will play music in
-    djplay <song title | youtube url> // Add a song to the song queue
-    djqueue // Displays the songs in the song queue
-    djstop // Stop the current song and clears the queue
-    djvolume <0 - 100> // Changes the bots volume from 0 to 100 percent
-    djpause // Pause the currently playing song
-    djresume // Resumes the currently paused song
-    djskip // Skips a song in the queue
-    djrepeat // Toggles song repeat mode
-
-Anime: !UNDER CONSTRUCTION!
-    animeNotif set <text-channel> // Sets the channel it will notify you in
-    animeNotif list // Lists anime on your notif list
-    animeNotif <add | remove> <anime name> // Add and remove anime from your notif list
+Features currently avalible:
+    - 
 ```
 
 ## What I used / learned
